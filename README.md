@@ -14,6 +14,15 @@
 
 - ⚡ Fun fact **Do not take life too seriously. You will never get out of it alive.**
 
+  ---
+
+## About Me
+
+I am Hariom Mehta, a driven Data Analyst with a background in Physics. My journey blends the rigors of scientific inquiry with the precision of data analysis. Currently pursuing my MSc in Physics from IIT Jodhpur, I am passionate about applying analytical techniques to solve complex problems and derive actionable insights. My expertise spans across data science, machine learning, and data visualization, and I enjoy turning raw data into meaningful narratives. Whether it's predicting trends, uncovering patterns, or visualizing data, I am dedicated to making data-driven decisions that have real-world impact.
+
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hariom-mehta-b98432291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariom-mehta-b98432291" height="30" width="40" /></a>

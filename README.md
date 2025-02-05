@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hm-dhakad820&label=Profile%20views&color=0e75b6&style=flat" alt="hm-dhakad820" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis and Machine learning Algorithms**
+- 🔭 I’m currently working on **Data Analysis and Data Visualisation of Quantum Optics Lab Data**
 
 - 👨‍💻 All of my projects are available at [https://hariommehta.dorik.io/](https://hariommehta.dorik.io/)
 
